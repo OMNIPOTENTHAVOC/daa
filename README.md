@@ -10,4 +10,5 @@
 - **exp_7b**: Fractional Knapsack Problem (Greedy)
 - **exp_8**: Longest Common Subsequence (Dynamic Programming)
 - **exp_9**: N-Queens Problem using backtracking
-- 
+- **exp_10:** Travelling Salesman Problem (DP+Bit-wise shift)
+- **exp_11:** Randomised Quicksort
